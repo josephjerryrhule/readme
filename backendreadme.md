@@ -1,8 +1,8 @@
----
+--
 
 # Backend Developer Test – User Authentication API
 
-## Project Overview
+Project Overview
 
 This is a backend coding challenge for a live collaboration project with a frontend developer. The goal is to build a secure, well-structured authentication system to support the following flows from the provided Figma design:
 
